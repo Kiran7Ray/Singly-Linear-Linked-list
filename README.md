@@ -72,7 +72,7 @@ Store temp->next in delNode.
 Set temp->next = delNode->next.
 Delete delNode.
 
-🔷 7. Display (display)
+7. Display (display)
 Purpose: Print all nodes in the list.
 
 Algorithm:
