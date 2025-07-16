@@ -14,9 +14,9 @@ Algorithms
 Purpose: Add a new node at the start of the list.
 
 Algorithm:
-Create a new node.
-Set new_node->next = head.
-Update head = new_node.
+i)Create a new node.
+ii)Set new_node->next = head.
+iii)Update head = new_node.
 
 2. Insert at End (insert_after)
 Purpose: Add a new node at the end of the list.
